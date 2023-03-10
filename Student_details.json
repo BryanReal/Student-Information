@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Bryan King Requias",
+            "Age": "21",
+            "Favorite_Quote": "Enjoy, Explore, Experience"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001104040@student.buksu.edu.ph"
+        }
+    ]
+}
